@@ -1,0 +1,11 @@
+{
+  "name": "colddoc",
+  "version": "1.0.0",
+  "description": "Generate ColdFusion documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
