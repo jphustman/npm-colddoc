@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
-  "author": "",
+  "repository": {
+	  "type": "git",
+	  "url": "git://github.com/jphustman/npm-colddoc"
+  },
+  "author": "Jeremey Hustman",
   "license": "ISC"
 }
